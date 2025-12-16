@@ -1,0 +1,10 @@
+{
+  "name": "basic-node-project",
+  "version": "1.0.0",
+  "description": "A minimal Node.js project scaffold",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
